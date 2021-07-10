@@ -1,6 +1,6 @@
 {
   "name": "rithikgandhi",
-  "version": "1.7.0",
+  "version": "0.1.0",
   "description": "A business card for Rithik Gandhi",
   "main": "/bin/card.js",
   "bin": {
